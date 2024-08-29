@@ -4,3 +4,4 @@ __pycache__/
 !.promptflow/flow.tools.json
 .runs/
 .venv/*
+.vscode/*
